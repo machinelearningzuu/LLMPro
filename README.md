@@ -1,5 +1,5 @@
-# Advanced-RAG-Experiments -> 
-### Difference Experiments on Advanced RAG for Production-Ready Language Models
+# Advanced-RAG-Experiments
+## Difference Experiments on Advanced RAG for Production-Ready Language Models
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
