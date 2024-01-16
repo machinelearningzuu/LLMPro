@@ -1,8 +1,8 @@
-# LLMPro: Production-Ready Language Models
+# Advanced-RAG-Experiments: Difference Experiments on Advanced RAG for Production-Ready Language Models
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Welcome to LLMPro – a repository dedicated to providing production-ready Large Language Models (LLMs) for real-world applications.
+Welcome to Advanced-RAG-Experiments – a repository dedicated to providing experiments on advanced ragh for production-ready Large Language Models (LLMs) for real-world applications.
 
 ## Table of Contents
 - [Introduction](#introduction)
