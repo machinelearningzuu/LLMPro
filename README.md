@@ -1,4 +1,4 @@
-# LLMPro
+# LLMPro - Enterprise RAG
 ## Different Experiments on RAG Around Variety of Data Sources and Vector DBs and Optimizations
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
