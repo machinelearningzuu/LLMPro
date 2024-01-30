@@ -1,9 +1,9 @@
-# Advanced-RAG-Experiments
-## Difference Experiments on Advanced RAG for Production-Ready Language Models
+# LLMPro
+## Different Experiments on RAG Around Variety of Data Sources and Vector DBs and Optimizations
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Welcome to Advanced-RAG-Experiments – a repository dedicated to providing experiments on advanced ragh for production-ready Large Language Models (LLMs) for real-world applications.
+Welcome to LLMPro – a repository dedicated to providing experiments on RAG for Variety of Data Sources and Vector DBs and Optimizations with make sure that you can scale for real-world applications.
 
 ## Table of Contents
 - [Introduction](#introduction)
